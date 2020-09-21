@@ -7,10 +7,10 @@
 - O Padrão Template Method define o esqueleto de um algoritmo dentro de um método, transferindo alguns de seus passos para as subclasses. O Template Method permite que as subclasses redefinam certos passos de um algoritmo sem alterar a estrutura do próprio algoritmo
 
 ## Motivation
-- O Composite se tornou uma solução bastante popular para a maioria dos problemas que exigem a construção de uma estrutura em árvore. O grande recurso do Composite é a capacidade de executar métodos recursivamente em toda a estrutura da árvore e resumir os resultados.
+- Temos diversas implementações de um algoritmo ou classe que seguem um “esqueleto” comum, mas que variam em alguns pequenos aspectos
 
 ## Applicability
-- Sua aplicação seria interessante para os que tem "filhos"(pois trabalha como arvore-folha) ou composição de varios elementos, por exemplo, em interfaces gráficas, um elemento gráfico pode ser formado pela composição de vários outros elementos. Uma página de internet pode conter um ou mais ícones, além de caixas de texto e vários outros elementos.
+- Aplicável para casos em que se tem uma hierarquia de classes se tem um algoritmo que deve ser dividido em etapas: Um método na superclasse, chamado template method, invoca os demais métodos que podem ser abstratos.
 
 ## Structure
 ![alt text](https://github.com/TakumaShimabukuro/Padrao-de-projeto/blob/master/images/StructureTemplateMethod.png)

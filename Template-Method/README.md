@@ -26,4 +26,4 @@
 
 
 ## Sample Code
-[Sample code](https://github.com/TakumaShimabukuro)
+[Sample code](https://github.com/TakumaShimabukuro/Padrao-de-projeto/tree/master/Template-Method/SampleCode)

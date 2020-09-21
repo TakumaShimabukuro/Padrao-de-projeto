@@ -35,4 +35,4 @@
 
 
 ## Sample Code
-[a link](https://github.com/TakumaShimabukuro)
+[Sample code](https://github.com/TakumaShimabukuro)

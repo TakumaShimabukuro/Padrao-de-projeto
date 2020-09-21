@@ -17,21 +17,21 @@
 
 ## Participants
 1. Component
- - Declara interface para objetos da composição
- - Implementa comportamentos padrao comuns para todas as classes
- - Declara uma interface para acessar e gerenciar componentes filho
+   - Declara interface para objetos da composição
+   - Implementa comportamentos padrao comuns para todas as classes
+   - Declara uma interface para acessar e gerenciar componentes filho
  
 2. Leaf
- - Representa objetos folha da consição que nao tem filhos
- - Define os objetos para objetos primitivos da composição
+   - Representa objetos folha da consição que nao tem filhos
+   - Define os objetos para objetos primitivos da composição
 
 3. Composite
- - Define o comportamento para componentes que possuem filhos
- - Armazena componentes filhos
- - Implementa operações relacionadas a filhos e definidas na interface Component
+   - Define o comportamento para componentes que possuem filhos
+   - Armazena componentes filhos
+   - Implementa operações relacionadas a filhos e definidas na interface Component
  
 4. Client
- - Manipula os objetos da composiçãovia interface Component
+   - Manipula os objetos da composiçãovia interface Component
 
 
 ## Sample Code

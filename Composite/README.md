@@ -13,7 +13,7 @@
 - Sua aplicação seria interessante para os que tem "filhos"(pois trabalha como arvore-folha) ou composição de varios elementos, por exemplo, em interfaces gráficas, um elemento gráfico pode ser formado pela composição de vários outros elementos. Uma página de internet pode conter um ou mais ícones, além de caixas de texto e vários outros elementos.
 
 ## Structure
-
+![alt text](https://github.com/TakumaShimabukuro/Padrao-de-projeto/blob/master/images/StructureComposite.png)
 
 ## Participants
 

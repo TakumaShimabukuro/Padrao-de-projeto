@@ -16,6 +16,22 @@
 ![alt text](https://github.com/TakumaShimabukuro/Padrao-de-projeto/blob/master/images/StructureComposite.png)
 
 ## Participants
+- Component
+ - Declara interface para objetos da composição
+ - Implementa comportamentos padrao comuns para todas as classes
+ - Declara uma interface para acessar e gerenciar componentes filho
+ 
+- Leaf
+ - Representa objetos folha da consição que nao tem filhos
+ - Define os objetos para objetos primitivos da composição
+
+- Composite
+ - Define o comportamento para componentes que possuem filhos
+ - Armazena componentes filhos
+ - Implementa operações relacionadas a filhos e definidas na interface Component
+ 
+- Client
+ - Manipula os objetos da composiçãovia interface Component
 
 
 ## Sample Code

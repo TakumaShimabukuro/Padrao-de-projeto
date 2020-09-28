@@ -29,4 +29,4 @@
    - Está interessado na instância, não importa se é uma só no programa todo.
 
 ## Sample Code
-[Sample code](https://github.com/TakumaShimabukuro)
+[Sample code](https://github.com/TakumaShimabukuro/Padrao-de-projeto/tree/master/Singleton/SampleCode)

@@ -16,7 +16,7 @@
 
 
 ## Structure
-![alt text](https://github.com/TakumaShimabukuro/Padrao-de-projeto/blob/master/images/StructureTemplateMethod.png)
+![alt text](https://github.com/TakumaShimabukuro/Padrao-de-projeto/blob/master/images/Singleton.png)
 
 ## Participants
 
